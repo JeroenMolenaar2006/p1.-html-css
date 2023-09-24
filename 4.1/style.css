@@ -1,30 +1,55 @@
-*{
-
-}
-
-h1{
+h1 {
     font-size: 24px;
     color: blue;
     font-weight: bold;
 
 }
-h2{
+
+h2 {
     font-size: 20px;
     color: #0000ff;
     font-weight: bold;
 }
-h3{
+
+h3 {
     font-size: 16px;
     color: teal;
     font-weight: bold;
 }
-p{
+
+p {
     color: #4d4d4d;
 }
-.first{
-color: #4d4d4d;
-font-weight: bold;
+
+.first {
+    color: #4d4d4d;
+    font-weight: bold;
 }
-a{
+
+a {
     color: #8a2be2;
-   text-decoration: none;
+    text-decoration: none;
+    border: 3px;
+    border-radius: 3px;
+}
+
+header {
+    text-align: center;
+    background-image: image()
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100vw;
+    height: auto;
+
+}
+
+a header{
+border: 4px;
+}
+
+
+niet af, kom er niet helemaal uit....
