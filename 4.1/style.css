@@ -35,7 +35,11 @@ a {
 
 header {
     text-align: center;
-    background-image: image()
+    background-image: url(img/forzamotorsport.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
 }
 
 img {
@@ -47,8 +51,7 @@ img {
 
 }
 
-a header{
-border: 4px;
+a header {
+    border: 4px;
+
 }
-
-
