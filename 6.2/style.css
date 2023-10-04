@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.flex-container {
+    background-color:whitesmoke;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+}
+
+
+.blokje1 {
+    width: 200px;
+    height: 200px;
+    background-color: #254de4;
+    margin: 10px;
+    color: #fff;
+}
+
+.blokje2 {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 10px;
+    color: #fff;
+}
+
+.blokje3 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 10px;
+    color: #fff;
+}
+.blokje4 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 10px;
+    color: #fff;
+    }
+
+
+
