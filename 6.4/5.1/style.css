@@ -65,14 +65,13 @@ nav li a {
   background-color: white;
   color: #00a8c7;
   padding: 0.8rem 1rem;
-/*  display: block;
-  text-align: left; */
+  display: block;
+  text-align: left;
 
 }
 
-.dropdown:hover .dropdown-content {
-  display: flex;
-  flex-direction: column;
+dropdown:hover .dropdown-content {
+  display: block;
   
 }
 
