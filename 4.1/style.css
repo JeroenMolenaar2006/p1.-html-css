@@ -1,3 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+    
+}
+
 h1 {
     font-size: 24px;
     color: blue;
@@ -54,4 +64,15 @@ img {
 a header {
     border: 4px;
 
+}
+
+.pheader {
+    color: white;
+   text-shadow: 2px 2px 4px #000000;
+}
+
+.border {
+    border: #000000 2px solid;
+    border-left: 4px;
+    
 }
